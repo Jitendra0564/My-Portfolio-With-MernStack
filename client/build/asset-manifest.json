@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a544708b.css",
+    "main.js": "/static/js/main.cdee20e1.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/My Resume.pdf": "/static/media/My Resume.0e95cf3145d8ce6cdafc.pdf",
+    "static/media/photo.png": "/static/media/photo.2584003a6aade0b2a832.png",
+    "static/media/logo.png": "/static/media/logo.d31f9097a18cd57457e2.png",
+    "index.html": "/index.html",
+    "main.a544708b.css.map": "/static/css/main.a544708b.css.map",
+    "main.cdee20e1.js.map": "/static/js/main.cdee20e1.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a544708b.css",
+    "static/js/main.cdee20e1.js"
+  ]
+}
